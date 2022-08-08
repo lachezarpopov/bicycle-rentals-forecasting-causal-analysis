@@ -1,6 +1,6 @@
 # Forecasting &amp; Causal Analysis of Bicycle Rentals
 
-This project includes training ARIMA models to forecast bicycle rentals based on weather data. Additionally, this project includes an analysis of the causal effect of temperature on bicycle rentals using Granger causality.
+This project includes training ARIMA models to forecast bicycle rentals based on weather data. Additionally, this project includes an analysis of the causal effect of temperature on bicycle rentals using Granger causality. This analysis was initially submitted as an assignment for the Social Behaviour Dynamics course of the Applied Data Science program.
 
 The data used in this analysis comes from 2 sources:
 - https://cycling.data.tfl.gov.uk/ - data on bicycle rentals
